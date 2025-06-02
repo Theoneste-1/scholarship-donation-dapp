@@ -1,0 +1,3 @@
+node_modules/ build/ .env *.log
+config.bat
+node_modules
